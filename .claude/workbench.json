@@ -7,7 +7,7 @@
   "max_spikes": 2,
   "wip_limit": 2,
   "board": "span-notes",
-  "owner": "@me",
+  "owner": "mazshahbaz",
   "test_command": ".venv/Scripts/python -m pytest -q",
   "protected": ["reference/"],
   "report_day": "Monday"
