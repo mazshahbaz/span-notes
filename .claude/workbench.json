@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "autonomy": "auto",
+  "default_tier": "normal",
+  "critical_paths": [],
+  "spike_timebox_min": 90,
+  "max_spikes": 2,
+  "wip_limit": 2,
+  "board": "span-notes",
+  "owner": "@me",
+  "test_command": ".venv/Scripts/python -m pytest -q",
+  "protected": ["reference/"],
+  "report_day": "Monday"
+}

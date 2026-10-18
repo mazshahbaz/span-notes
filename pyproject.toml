@@ -1,0 +1,9 @@
+[project]
+name = "span-notes"
+version = "0.0.1"
+description = "Beam calcs practice for the AI Dev Course"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
